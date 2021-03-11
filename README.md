@@ -6,4 +6,4 @@ payadd.js & payremove.js --> rien à faire
 
 banque.json --> remplacer "123456" par l'ID de la personne et copier/coller le patron pour chaque membre
 
-config.json --> add token bot
+index.js --> add token bot tout en bas
